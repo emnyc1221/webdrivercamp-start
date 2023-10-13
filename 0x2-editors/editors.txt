@@ -1,0 +1,14 @@
+0 - ‘emac ‘filename’’
+1 - ‘Ctrl + X’
+2 - ‘Ctrl + Shift + K’
+3 - 'Ctrl + Y’
+4 - ‘Ctrl + S’
+5 - ‘Ctrl + W’
+6 - ‘Ctrl + C’
+7 - ‘i’
+8 - ‘:delete’
+9 - Press Esc then ‘:put!’
+10 - 'U’
+11 - ‘:q!’
+12 - ‘0’
+13 - ‘$’
